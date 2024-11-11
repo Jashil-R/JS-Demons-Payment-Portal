@@ -11,6 +11,7 @@ JS Demons Payments Portal empowers customers to securely log in, register, and m
 
 * **Malik Mannan** - ST10091422
 * **Thato Sebelemetja** - ST10067544
+* **Jashil Roopnarain** - ST10092261
 
 ## ✨ Features
 
